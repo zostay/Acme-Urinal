@@ -4,6 +4,8 @@ use warnings;
 
 use Carp;
 
+our $VERSION = '1.0';
+
 =head1 NAME
 
 Acme::Urinal - assign resources using the same algorithm used by men choosing which urinal to use
